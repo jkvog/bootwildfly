@@ -1,0 +1,4 @@
+oc login https://api.starter-us-east-1.openshift.com
+# jakevogelaar 9V....
+oc project jv-project
+oc status
